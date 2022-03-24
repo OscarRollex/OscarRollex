@@ -1,0 +1,31 @@
+Area of a circle
+
+Start
+    Enter area A, radius R, PI
+    A=PI*R*R
+  Print A
+Stop
+
+Area of rectangle
+
+Start
+    Enter area A, length L, width W
+    A=L*W
+  Print A
+Stop
+
+Perimeter of rectangle
+
+Start
+    Enter perimeter P, length L, width W
+    P=2(L+W)
+  Print P
+Stop
+
+Volume of sphere
+
+Start
+    Enter volume V, radius R, PI
+    V=4/3*PI*R*R*R
+  Print V
+Stop
